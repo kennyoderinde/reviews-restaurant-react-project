@@ -1,0 +1,26 @@
+ * {
+    box-sizing: border-box;
+}
+
+ .body{
+    background: pink;
+    line-height: 1.5;
+    font-size: 0.875rem;
+ }
+
+ .container{
+   width: 150px;
+   height: 150px;
+ }
+
+
+
+ ul {
+    list-style-type: none;
+ }
+ a {
+    text-decoration: none;
+ }
+ h1, h2, h3, h4{
+
+ } 

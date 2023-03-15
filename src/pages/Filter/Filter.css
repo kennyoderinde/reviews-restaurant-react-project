@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.main-background{
+    width: 70%;
+    height: 90%;
+    background-color: khaki;
+
+}
+.car-tile{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    border: 2px solid black;
+    margin: 20px 20px;
+}
+
+img{
+    margin: 70px 0 0 -80px;
+}
