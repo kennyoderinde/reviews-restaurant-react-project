@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+.heading-bar{
+    width: 100%;
+    height: 50px;
+    background-color: lightsteelblue;
+}
+
+.heading-list{
+    
+    display: flex;
+    flex-wrap: wrap;
+    color:rgb(14, 0, 139);
+    font-size: 15px;
+    list-style: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.heading-list li{
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 500;
+    text-decoration: none;
+
+}
+.heading-list li:hover{
+    color: brown;
+
+}
+

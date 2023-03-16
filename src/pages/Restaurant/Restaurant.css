@@ -17,19 +17,19 @@
     
 }
 .food-tile{
-    height: 25%;
+    height: 22%;
     display: flex;
     background: transparent;
     margin-top: 35px ;
-    margin-left: 30px;
-    border: 1px solid rgb(186, 188, 199) ;
+    margin-left: 20px;
+    border: 1px solid rgb(219, 220, 227) ;
 
 
 }
 
 .img{
-    width: 13rem;
-    height: 9rem;
+    width: 10rem;
+    height: 7rem;
     margin: 15px 20px 0 70px;
     border: 3px solid rgb(191, 150, 74) ;
 }
@@ -61,14 +61,14 @@
     padding: 8px 0 0 12px;
     color:rgb(191, 150, 74);
     font-weight: 500;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .underline-food{
     width: 90%;
     height: 2px;
-    background: rgb(188, 191, 204);
-    margin: -23px 0 20px 10px;
+    background: rgb(221, 222, 234);
+    margin: -28px 0 20px 10px;
     
 }
  
@@ -76,10 +76,10 @@
     width: 300px;
     height: 75px;
     background: transparent;
-    font-size: 12px;
-    font-weight: 500;
+    font-size: 11px;
+    font-weight: 400;
     color: black;
-    margin: -10px 0 0 0;
+    margin: -14px 0 0 0;
     padding: 5px 0 0 10px;
 }
 
@@ -108,7 +108,7 @@
     
 }
 .menu-title{
-    font-size: 22px;
+    font-size: 20px;
     
 }
 .underline1{
@@ -139,7 +139,7 @@
     padding: 8px 16px;
     border-radius: 10px;
     color: rgb(191, 150, 74);
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     
 }

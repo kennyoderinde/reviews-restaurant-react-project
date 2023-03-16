@@ -71,6 +71,7 @@ const ReviewList = () => {
                 <button className='random-btn' onClick={randomPerson}>
                     Surprise Me
                 </button>
+                <div className='review-space'></div>
             </div>
             
             

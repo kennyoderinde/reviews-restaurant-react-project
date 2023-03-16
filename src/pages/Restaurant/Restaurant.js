@@ -30,7 +30,7 @@ function DisplayMeals() {
                         </div>
                         <div className="item-info">
                             <header>
-                                <h4 className="title">{value.title}</h4>
+                                <h5 className="title">{value.title}</h5>
                                 <h4 className="price">{value.price}</h4>
                             </header>
                             <div className="underline-food"></div>
